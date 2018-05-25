@@ -3,8 +3,9 @@ import numpy as np
 import operator
 
 """
-函数说明:kNN算法,分类器
 
+函数说明:kNN算法,分类器
+ 
 Parameters:
     inX - 用于分类的数据(测试集)
     dataSet - 用于训练的数据(训练集)
